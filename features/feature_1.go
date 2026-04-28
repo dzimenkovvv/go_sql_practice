@@ -2,6 +2,6 @@ package features
 
 import "fmt"
 
-func Feature() {
-	fmt.Println("It's FEATURE 1")
+func Feature1() {
+	fmt.Println("It's Feature 1")
 }

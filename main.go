@@ -7,6 +7,6 @@ import (
 
 func main() {
 	fmt.Println("Hello, It's main!")
-	features.Feature()
-	features.Feature_2()
+	features.Feature1()
+	features.Feature2()
 }
