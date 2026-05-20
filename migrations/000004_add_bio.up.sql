@@ -1,0 +1,2 @@
+ALTER TABLE users
+ADD user_bio VARCHAR(1000);
